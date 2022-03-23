@@ -1,0 +1,50 @@
+2022-02-26 20:28:46:DEBUG:Created account: 2
+2022-02-26 20:32:52:DEBUG:Created account: 1
+2022-02-26 20:33:06:DEBUG:Created transaction: 1, -10000
+2022-02-26 20:37:28:DEBUG:Created account: 1
+2022-02-26 20:37:52:DEBUG:Triggered fees and interest
+2022-02-26 20:38:15:DEBUG:Triggered fees and interest
+2022-02-26 20:38:49:DEBUG:Created transaction: 1, 4211.15
+2022-02-26 20:38:58:DEBUG:Triggered fees and interest
+2022-02-26 20:39:13:DEBUG:Triggered fees and interest
+2022-02-26 20:39:58:DEBUG:Created transaction: 1, -10000
+2022-02-26 20:43:29:DEBUG:Created transaction: 1, -10000
+2022-02-26 20:43:47:DEBUG:Created account: 1
+2022-02-26 20:44:07:DEBUG:Created transaction: 1, -10000
+2022-02-26 20:44:15:DEBUG:Triggered fees and interest
+2022-02-26 20:44:29:DEBUG:Created transaction: 1, -10000
+2022-02-26 20:45:19:DEBUG:Created account: 1
+2022-02-26 20:45:53:DEBUG:Created account: 1
+2022-02-26 20:46:22:DEBUG:Created account: 1
+2022-02-26 20:50:58:DEBUG:Created account: 1
+2022-02-26 20:51:36:DEBUG:Created account: 1
+2022-02-26 20:51:39:DEBUG:Triggered fees and interest
+2022-02-26 20:51:52:DEBUG:Created transaction: 1, -11000
+2022-02-26 20:59:19:DEBUG:Created account: 1
+2022-02-26 20:59:53:DEBUG:Created transaction: 1, 4000
+2022-02-26 21:00:00:DEBUG:Triggered fees and interest
+2022-02-26 21:06:56:DEBUG:Saved to bank.pickle
+2022-02-26 21:07:05:DEBUG:Loaded from bank.pickle
+2022-02-26 21:07:35:DEBUG:Created account: 2
+2022-02-26 21:09:14:DEBUG:Created account: 1
+2022-02-26 21:09:25:DEBUG:Created transaction: 1, 4000
+2022-02-26 21:09:31:DEBUG:Triggered fees and interest
+2022-02-26 21:10:02:DEBUG:Created transaction: 1, -10000
+2022-02-26 21:10:24:DEBUG:Created account: 1
+2022-02-26 21:10:40:DEBUG:Created transaction: 1, 4000
+2022-02-26 21:10:53:DEBUG:Triggered fees and interest
+2022-02-26 21:12:09:DEBUG:Created transaction: 1, -10000
+2022-02-26 21:12:50:DEBUG:Triggered fees and interest
+2022-02-26 21:17:09:DEBUG:Created account: 1
+2022-02-26 21:17:11:DEBUG:Triggered fees and interest
+2022-02-26 21:17:13:DEBUG:Triggered fees and interest
+2022-02-26 21:17:17:DEBUG:Triggered fees and interest
+2022-02-26 21:18:28:DEBUG:Created transaction: 1, 0
+2022-02-26 21:18:29:DEBUG:Triggered fees and interest
+2022-02-26 21:19:37:DEBUG:Created account: 1
+2022-02-26 21:19:41:DEBUG:Triggered fees and interest
+2022-02-26 21:19:42:DEBUG:Triggered fees and interest
+2022-02-26 21:19:43:DEBUG:Triggered fees and interest
+2022-02-26 21:19:43:DEBUG:Triggered fees and interest
+2022-02-26 21:20:02:DEBUG:Created transaction: 1, 40
+2022-02-26 21:20:03:DEBUG:Triggered fees and interest

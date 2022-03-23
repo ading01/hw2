@@ -1,0 +1,29 @@
+2022-02-26 21:23:36:DEBUG:Created account: 1
+2022-02-26 21:23:49:DEBUG:Created transaction: 1, 4000
+2022-02-26 21:23:51:DEBUG:Triggered fees and interest
+2022-02-26 21:26:23:DEBUG:Created account: 2
+2022-02-26 21:26:28:DEBUG:Triggered fees and interest
+2022-02-26 21:26:37:DEBUG:Created transaction: 1, -10000
+2022-02-26 21:35:16:DEBUG:Created account: 1
+2022-02-26 21:35:18:DEBUG:Triggered fees and interest
+2022-02-26 21:35:26:DEBUG:Triggered fees and interest
+2022-02-26 21:35:35:DEBUG:Created transaction: 1, -10000
+2022-02-26 21:38:09:DEBUG:Created account: 1
+2022-02-26 21:38:12:DEBUG:Triggered fees and interest
+2022-02-26 21:38:20:DEBUG:Created transaction: 1, -1000
+2022-02-26 22:20:18:DEBUG:Created account: 1
+2022-02-26 22:20:18:DEBUG:Created transaction: 1, 50
+2022-02-26 22:22:16:DEBUG:Created account: 1
+2022-02-26 22:22:16:DEBUG:Created transaction: 1, 50
+2022-02-26 22:22:25:DEBUG:Created transaction: 1, 0.0750
+2022-02-26 22:22:25:DEBUG:Created transaction: 1, -10
+2022-02-26 22:22:25:DEBUG:Triggered fees and interest
+2022-02-26 22:23:11:DEBUG:Created account: 1
+2022-02-26 22:23:11:DEBUG:Created transaction: 1, 50
+2022-02-26 22:23:13:DEBUG:Created transaction: 1, 0.0750
+2022-02-26 22:23:13:DEBUG:Created transaction: 1, -10
+2022-02-26 22:23:13:DEBUG:Triggered fees and interest
+2022-02-26 22:24:04:DEBUG:Created account: 1
+2022-02-26 22:24:04:DEBUG:Created transaction: 1, 50
+2022-02-26 22:26:02:DEBUG:Created account: 1
+2022-02-26 22:26:02:DEBUG:Created transaction: 1, 50
